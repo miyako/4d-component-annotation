@@ -6,25 +6,25 @@ SVG Annotation Editor, based on the [Label Editor](https://github.com/miyako/4d-
 Example
 ---
 
-To set the background image:
+To set the background image
 
 ```
 Editor_SET_IMAGE ("Editor";[Table_1]image)
 ```
 
-To set the annotation: (XML format, compatible with the Label Editor)
+To set the annotation (XML format, compatible with the Label Editor)
 
 ```
 Editor_SET_ANNOTATION ("Editor";[Table_1]annotation)
 ```
 
-To retrive the annotation:
+To retrive the annotation
 
 ```
 [Table_1]annotation:=Editor_get_annotation ("Editor")
 ```
 
-To toggle the visibility of the annotation layer:
+To toggle the visibility of the annotation layer
 
 ```
 $event:=Form event

@@ -9,6 +9,6 @@
   viewport-fill="#FF00FF"
   viewport-fill-opacity="0">
 
-	<rect id="rect" transform="translate(2,4)" x="0" y="0" width="20" height="16" shape-rendering="crispEdges" fill="none" fill-opacity="0" stroke="#AAAAAA" stroke-width="2" stroke-opacity="1"/>
+	<rect id="rect" transform="translate(2,4)" x="0" y="0" width="20" height="16" shape-rendering="crispEdges" fill="none" fill-opacity="0" stroke="#FFFF00" stroke-width="2" stroke-opacity="1"/>
 
 </svg>
